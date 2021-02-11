@@ -1,0 +1,1 @@
+Factory method contains itself logic - it decides which object should create, and Inherited classes encapsulate their logic accordingly.
