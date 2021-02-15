@@ -1,0 +1,1 @@
+Singleton patter ensures that there is a single instance of the class, and a single way to access to it
