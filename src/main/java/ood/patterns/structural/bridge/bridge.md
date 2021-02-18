@@ -1,0 +1,2 @@
+Bridge allows to separate the abstraction from the implementation so that they can be changed independently.
+In example, we have two abstractions - Weapon and Unit. So we should operate with them independently.
